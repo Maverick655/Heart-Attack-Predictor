@@ -17,7 +17,7 @@ The dataset used in this project contains the following medical attributes:
 
 The target variable is whether the patient is likely to have a heart stroke (binary: yes/no).
 
-##Source
+## Source
 The dataset can be downloaded from below link.
 
 Dataset: https://drive.google.com/file/d/1uqi87nveAWf1sQ6bTaedVBEGidwre1Pf/view?usp=sharing
