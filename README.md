@@ -17,6 +17,11 @@ The dataset used in this project contains the following medical attributes:
 
 The target variable is whether the patient is likely to have a heart stroke (binary: yes/no).
 
+##Source
+The dataset can be downloaded from below link.
+
+Dataset: https://drive.google.com/file/d/1uqi87nveAWf1sQ6bTaedVBEGidwre1Pf/view?usp=sharing
+
 ## Techniques Used
 - Classification: Utilizing classification algorithms such as logistic regression, decision trees, random forests, or gradient boosting to predict the likelihood of a heart stroke based on the input medical attributes.
 - Data Preprocessing: Cleaning the dataset, handling missing values, encoding categorical variables, and scaling numerical features.
